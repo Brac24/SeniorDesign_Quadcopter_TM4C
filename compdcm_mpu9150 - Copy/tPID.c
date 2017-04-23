@@ -38,8 +38,6 @@ void updateCopterPitch(tPID *pidInstance, tMotor *motorInstance, pidConstants *r
 	
 	//float error,p_error;
 	
-	
-	
 	pidInstance->errorEuler = pidInstance->pvEuler-pidInstance->spEuler;  // error = pv - sp
 	pidInstance->integralErrorEuler += pidInstance->errorEuler;
 	//pidInstance->p_errorEuler = pidInstance->errorEuler;
