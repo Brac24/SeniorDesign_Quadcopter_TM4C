@@ -168,11 +168,11 @@
             <RunIndependent>0</RunIndependent>
             <UpdateFlashBeforeDebugging>1</UpdateFlashBeforeDebugging>
             <Capability>1</Capability>
-            <DriverSelection>4099</DriverSelection>
+            <DriverSelection>4097</DriverSelection>
           </Flash1>
           <bUseTDR>1</bUseTDR>
           <Flash2>BIN\lmidk-agdi.dll</Flash2>
-          <Flash3></Flash3>
+          <Flash3>"" ()</Flash3>
           <Flash4></Flash4>
           <pFcarmOut></pFcarmOut>
           <pFcarmGrp></pFcarmGrp>
@@ -362,7 +362,7 @@
               <MiscControls>--c99</MiscControls>
               <Define>rvmdk PART_TM4C123GH6PM TARGET_IS_TM4C123_RB1 UART_BUFFERED</Define>
               <Undefine></Undefine>
-              <IncludePath>..;..\..\..\..</IncludePath>
+              <IncludePath>..;..\..\..\..;C:\ti\TivaWare_C_Series-2.1.3.156</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>

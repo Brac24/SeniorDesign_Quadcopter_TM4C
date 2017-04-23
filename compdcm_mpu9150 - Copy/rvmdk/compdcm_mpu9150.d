@@ -21,6 +21,7 @@
 .\rvmdk\compdcm_mpu9150.o: C:\ti\TivaWare_C_Series-2.1.3.156\sensorlib/i2cm_drv.h
 .\rvmdk\compdcm_mpu9150.o: C:\ti\TivaWare_C_Series-2.1.3.156\sensorlib/ak8975.h
 .\rvmdk\compdcm_mpu9150.o: C:\ti\TivaWare_C_Series-2.1.3.156\sensorlib/mpu9150.h
+.\rvmdk\compdcm_mpu9150.o: C:\ti\TivaWare_C_Series-2.1.3.156\sensorlib/i2cm_drv.h
 .\rvmdk\compdcm_mpu9150.o: C:\ti\TivaWare_C_Series-2.1.3.156\sensorlib/comp_dcm.h
 .\rvmdk\compdcm_mpu9150.o: tPID.h
 .\rvmdk\compdcm_mpu9150.o: tMotor.h
