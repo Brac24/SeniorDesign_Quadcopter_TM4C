@@ -329,7 +329,7 @@
       <TopLine>0</TopLine>
       <CurrentLine>0</CurrentLine>
       <bDave2>0</bDave2>
-      <PathWithFileName>C:\Users\Johnny Cuenca\OneDrive\CSULB\CSULB Spring Semester 2017\CECS 490 - Senior Design II\TivaWare_C_Series-2.1.3.156\examples\boards\ek-tm4c123gxl-boostxl-senshub\drivers\rgb.c</PathWithFileName>
+      <PathWithFileName>C:\ti\TivaWare_C_Series-2.1.3.156\examples\boards\ek-tm4c123gxl-boostxl-senshub\drivers\rgb.c</PathWithFileName>
       <FilenameWithoutPath>rgb.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -361,7 +361,7 @@
       <TopLine>0</TopLine>
       <CurrentLine>0</CurrentLine>
       <bDave2>0</bDave2>
-      <PathWithFileName>C:\Users\Johnny Cuenca\OneDrive\CSULB\CSULB Spring Semester 2017\CECS 490 - Senior Design II\TivaWare_C_Series-2.1.3.156\utils\uartstdio.c</PathWithFileName>
+      <PathWithFileName>C:\ti\TivaWare_C_Series-2.1.3.156\utils\uartstdio.c</PathWithFileName>
       <FilenameWithoutPath>uartstdio.c</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -401,7 +401,7 @@
       <TopLine>0</TopLine>
       <CurrentLine>0</CurrentLine>
       <bDave2>0</bDave2>
-      <PathWithFileName>C:\Users\Johnny Cuenca\OneDrive\CSULB\CSULB Spring Semester 2017\CECS 490 - Senior Design II\TivaWare_C_Series-2.1.3.156\driverlib\rvmdk\driverlib.lib</PathWithFileName>
+      <PathWithFileName>C:\ti\TivaWare_C_Series-2.1.3.156\driverlib\rvmdk\driverlib.lib</PathWithFileName>
       <FilenameWithoutPath>driverlib.lib</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
@@ -417,7 +417,7 @@
       <TopLine>0</TopLine>
       <CurrentLine>0</CurrentLine>
       <bDave2>0</bDave2>
-      <PathWithFileName>C:\Users\Johnny Cuenca\OneDrive\CSULB\CSULB Spring Semester 2017\CECS 490 - Senior Design II\TivaWare_C_Series-2.1.3.156\sensorlib\rvmdk\sensorlib.lib</PathWithFileName>
+      <PathWithFileName>C:\ti\TivaWare_C_Series-2.1.3.156\sensorlib\rvmdk\sensorlib.lib</PathWithFileName>
       <FilenameWithoutPath>sensorlib.lib</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
