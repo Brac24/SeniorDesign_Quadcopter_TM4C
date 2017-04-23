@@ -14,6 +14,7 @@
 .\rvmdk\compdcm_mpu9150.o: C:\ti\TivaWare_C_Series-2.1.3.156\driverlib/sysctl.h
 .\rvmdk\compdcm_mpu9150.o: C:\ti\TivaWare_C_Series-2.1.3.156\driverlib/uart.h
 .\rvmdk\compdcm_mpu9150.o: C:\ti\TivaWare_C_Series-2.1.3.156\driverlib/pwm.h
+.\rvmdk\compdcm_mpu9150.o: C:\ti\TivaWare_C_Series-2.1.3.156\driverlib/timer.h
 .\rvmdk\compdcm_mpu9150.o: C:\ti\TivaWare_C_Series-2.1.3.156\utils/uartstdio.h
 .\rvmdk\compdcm_mpu9150.o: C:\Keil\ARM\ARMCC\bin\..\include\stdarg.h
 .\rvmdk\compdcm_mpu9150.o: C:\ti\TivaWare_C_Series-2.1.3.156\sensorlib/hw_mpu9150.h
