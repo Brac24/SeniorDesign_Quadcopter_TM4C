@@ -1,5 +1,5 @@
 //*****************************************************************************
-//What branch is this
+//
 // compdcm_mpu9150.c - Example use of the SensorLib with the MPU9150
 //
 // Copyright (c) 2013-2016 Texas Instruments Incorporated.  All rights reserved.

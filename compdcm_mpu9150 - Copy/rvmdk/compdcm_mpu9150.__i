@@ -1,0 +1,6 @@
+-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I.. -I..\..\..\.. -IC:\ti\TivaWare_C_Series-2.1.3.156 --c99
+-I C:\Keil\ARM\RV31\INC
+-I C:\Keil\ARM\CMSIS\Include
+-I C:\Keil\ARM\Inc\Luminary
+-Drvmdk -DPART_TM4C123GH6PM -DTARGET_IS_TM4C123_RB1 -DUART_BUFFERED
+-o .\rvmdk\compdcm_mpu9150.o --omf_browse .\rvmdk\compdcm_mpu9150.crf --depend .\rvmdk\compdcm_mpu9150.d "compdcm_mpu9150.c"
